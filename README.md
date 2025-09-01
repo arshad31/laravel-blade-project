@@ -44,7 +44,7 @@ The POS database(pos_db.sql included into repository) consists of the following 
 ### **Task 3: Form Submission**
 - It is simple form submission that will submit data via **POST** request.
 - After submission:
-  - Wll save data in **Session**.
+  - Will save data in **Session**.
   - Redirect to a confirmation page.
   - Display a success message.
 
